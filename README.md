@@ -1,3 +1,7 @@
+
+https://docs.microsoft.com/en-us/power-apps/developer/data-platform/webapi/samples/webapiservice-basic-operations
+
+
 # Power Apps Samples
 
 Welcome to the samples repo for Power Apps.
